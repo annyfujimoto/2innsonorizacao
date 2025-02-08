@@ -248,7 +248,7 @@
 
     .home-container {
         row-gap: 2.5rem;
-        background-image: url('IMG_3850.jpeg');
+        background-image: url('../IMG_3850.jpeg');
         background-size: cover;
         padding-top: 2rem;
     }
